@@ -1,6 +1,5 @@
 # LGMVIP DATASCIENCE TASK - 1
-# BY SaloniGoyal
-# Iris Classification
+# BY SaloniGoyal# Iris Classification
 
 # Import Packages
 import numpy as np

@@ -1,5 +1,3 @@
-#LGMVIP TASK 3
-# SALONI GOYAL
 # MUSIC RECOMMENDATION SYSTEM
 import os
 import numpy as np
